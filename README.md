@@ -2,7 +2,8 @@
 Final Project for Big Ideas for Computing and Informatics 2024-2025
 
 Group Members:
-Sean Milliken
+
+Sean Milliken - sem402@pitt.edu
 
 Frank Postava
 
