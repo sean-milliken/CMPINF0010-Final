@@ -11,6 +11,10 @@ This dataset gives a lot of data from each neighborhood, including things like c
 
 Frank Postava - fap37@pitt.edu
 
+Frank's dataset - https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f 
+
+This dataset has information about every arrest starting in August of 2016, with information regarding the neighboorhoods they occured in
+
 Maxwell Sanders
 
 
