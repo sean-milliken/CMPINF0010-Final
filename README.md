@@ -3,7 +3,7 @@ Final Project for Big Ideas for Computing and Informatics 2024-2025
 
 Team name - SFM
 
-We measured the "best" neighborhood by looking at different datasets that all have to do with the safety of the neighborhoods
+We measured the "best" neighborhood by looking at different datasets that all have to do with the safety of the overall neighborhoods
 
 Group Members:
 
