@@ -25,8 +25,7 @@ This dataset has information about every arrest starting in August of 2016, with
 
 Maxwell Sanders - mas1646@pitt.edu
 
-Max's dataset - https://data.wprdc.org/dataset/allegheny-county-human-services-community-profiles/resource/13363e19-9e54-4673-be03-4fe2fa587741
+Max's dataset - [https://data.wprdc.org/dataset/allegheny-county-human-services-community-profiles/resource/13363e19-9e54-4673-be03-4fe2fa58774]
 
-This dataset provides a plethera of information and reports about incidents and care services reported or provided by the Departmet of Human services, including informations about the incident, people, towns, and years.
-
+This dataset provides 911 ems dispatches, along with location data nad year data for neighbohoods in Allegheny county
 
