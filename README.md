@@ -23,6 +23,10 @@ Frank's dataset - https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-1
 
 This dataset has information about every arrest starting in August of 2016, with information regarding the neighboorhoods they occured in
 
-Maxwell Sanders
+Maxwell Sanders - mas1646@pitt.edu
+
+Max's dataset - https://data.wprdc.org/dataset/allegheny-county-human-services-community-profiles/resource/13363e19-9e54-4673-be03-4fe2fa587741
+
+This dataset provides a plethera of information and reports about incidents and care services reported or provided by the Departmet of Human services, including informations about the incident, people, towns, and years.
 
 
